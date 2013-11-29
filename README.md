@@ -1,0 +1,2 @@
+Writing a software to control the flow at an airport. The planes can land and take off to provided that the weather is sunny.Occasionally it may be stormy, in wich case no planes can land or take off.
+Create a set of classes/modules to makes the given test suite pass. You will need random number generator to set weather (it's normally sunny but on rare occasions it may be stormy). In your testes, you'll need tu use stubbing to override random weather. Finally, every plane must have a status indicating wether it's flying or landed. Youmay expand on the original tests.
